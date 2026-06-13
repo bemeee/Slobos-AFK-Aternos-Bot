@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "wearenotgaytho.aternos.me",
-    "port": 55046,
+    "port":55046,
     "version": "",
     "try-creative": false
   },
